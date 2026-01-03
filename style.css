@@ -38,5 +38,15 @@
     object-fit: cover;
     box-shadow: 0 10px 25px rgba(0,0,0,0.3);
 }
-
-
+#Services{
+    display: flex;
+    background-color:beige;
+    justify-content: space-around;
+}
+.box{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid grey;
+    
+}
