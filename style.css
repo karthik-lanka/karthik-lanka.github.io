@@ -31,4 +31,12 @@
 #Home {
     display: flex;
 }
+.profile-img {
+    width: 280px;
+    height: 280px;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+}
+
 
