@@ -1,6 +1,8 @@
 .header{
+    padding: 10px;
     display: flex;
-    background-color: aquamarine;
+    justify-content: space-between;
+    background-color: rgb(17, 19, 18);
     color: blanchedalmond;
         }
 .footer{
