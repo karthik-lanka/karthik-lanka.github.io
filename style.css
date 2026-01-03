@@ -1,0 +1,14 @@
+.header{
+            background-color: aquamarine;
+            color: blanchedalmond;
+        }
+.footer{
+            background-color: rgb(166, 139, 195);
+            color: cornsilk;
+        }
+.container{
+    margin: 0px;
+}
+/* *{
+    margin: 0px;
+} */
