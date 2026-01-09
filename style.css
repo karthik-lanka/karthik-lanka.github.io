@@ -652,3 +652,16 @@ body {
     transform: translateY(-2px);
     box-shadow: 0 10px 30px rgba(173, 110, 203, 0.45);
 }
+
+.footer {
+    background-color: rgb(88, 59, 118);
+    color: cornsilk;
+
+    height: 30px;                 /* optional but clean */
+    display: flex;
+    align-items: center;          /* vertical center */
+    justify-content: center;      /* horizontal center */
+
+    font-size: 14px;
+    text-align: center;
+}
